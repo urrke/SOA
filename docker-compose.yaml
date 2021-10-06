@@ -1,0 +1,94 @@
+version: "3.9"
+services:
+  siddhiio:
+    image: siddhiio/siddhi-runner-alpine
+    hostname: "siddhiio"
+    ports:
+      - "8006:8006"
+    volumes:
+      - ./Siddhi:/apps
+    command: 
+      -Dapps=/apps/SiddhiAnalyticsMicroservice.siddhi
+    restart: on-failure
+  hivemq:
+    image: hivemq/hivemq4
+    hostname: "hivemq"
+    ports:
+      - "8080:8080"
+      - "1883:1883"
+    restart: on-failure
+  mongodb:
+    image: mongo
+    hostname: "mongodb"
+    ports:
+      - "27017:27017"
+    restart: on-failure
+  data-microservice:
+    image: data-microservice
+    build:
+      context: ./Microservices/Data Microservice/Data Microservice
+      dockerfile: Dockerfile
+    ports:
+      - "58333:80"
+    hostname: "data-microservice"
+    depends_on:
+      - hivemq 
+      - mongodb
+    restart: on-failure
+  analytics-microservice:
+    image: analytics-microservice
+    build:
+      context: ./Microservices/AnalyticsMicroservice/AnalyticsMicroservice
+      dockerfile: Dockerfile
+    ports:
+      - "40015:80"
+    hostname: "analytics-microservice"
+    depends_on:
+      - hivemq 
+      - mongodb
+      - siddhiio
+    restart: on-failure
+  command-microservice:
+    image: command-microservice
+    build:
+      context: ./Microservices/CommandMicroservice/CommandMicroservice
+      dockerfile: Dockerfile
+    ports:
+      - "18902:80"
+    hostname: "command-microservice"
+    depends_on:
+      - hivemq 
+    restart: on-failure
+  api-gateway:
+    image: api-gateway
+    build:
+      context: ./Microservices/APIGateway/APIGateway
+      dockerfile: Dockerfile
+    ports:
+      - "50954:80"
+    hostname: "api-gateway"
+    depends_on:
+      - hivemq 
+      - data-microservice
+      - analytics-microservice
+    restart: on-failure
+  water-conditions-sensor:  
+    build:
+      context: ./Microservices/Sensor Device Microservices/Water Conditions Microservice
+      dockerfile: Dockerfile
+    ports:
+      - "5001:5000"
+    hostname: "water-conditions-sensor"
+    depends_on:
+      - data-microservice
+    restart: on-failure
+  waves-sensor:  
+    build:
+      context: ./Microservices/Sensor Device Microservices/Waves Microservice
+      dockerfile: Dockerfile
+    ports:
+      - "5002:5000"
+    hostname: "waves-sensor"
+    depends_on:
+      - data-microservice
+    restart: on-failure

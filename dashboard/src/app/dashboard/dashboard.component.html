@@ -1,0 +1,40 @@
+<div class="dashboard">
+  <div class="dashboard-header">
+    <h1>Beach Water Quality Dashboard</h1>
+  </div>
+
+  <div class="dashboard-main">
+    <div class="dashboard-main-events-table">
+      <events-table [dataSource]="allEvents"></events-table>
+    </div>
+
+    <mat-form-field appearance="outline" class="dashboard-main-selection">
+      <mat-label>Select Beach</mat-label>
+      <mat-select (selectionChange)="onBeachSelected($event.value)">
+        <mat-option *ngFor="let beach of allBeaches" [value]="beach">
+          {{beach}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <!--<div *ngIf="CurrentBeach != null">
+      <dashboard-chart *ngIf="tempSignal.length > 0" [data]="tempSignal" title="Temperature" uom="C" container="container1"></dashboard-chart>
+      <dashboard-chart *ngIf="turbiditySignal.length > 0" [data]="turbiditySignal" title="Turbidity" uom="" container="container2"></dashboard-chart>
+      <dashboard-chart *ngIf="waveHeightSignal.length > 0" [data]="waveHeightSignal" title="Wave Height" uom="cm" container="container3"></dashboard-chart>
+      <dashboard-chart *ngIf="wavePeriodSignal.length > 0" [data]="wavePeriodSignal" title="Wave Period" uom="hz" container="container4"></dashboard-chart>
+      <dashboard-chart *ngIf="batteryLifeSignal.length > 0" [data]="batteryLifeSignal" title="Battery Life" uom="%" container="container5"></dashboard-chart>
+    </div>-->
+
+    <div *ngIf="CurrentBeach != null">
+      <div id="chart-container1"></div>
+      <div id="chart-container2"></div>
+      <div id="chart-container3"></div>
+      <div id="chart-container4"></div>
+      <div id="chart-container5"></div>
+    </div>
+    
+    <!--<div *ngIf="CurrentBeach">
+      <dashboard-chart [data]="tempSignal" nodeID="sadasd123"></dashboard-chart>
+    </div>-->
+  </div>
+</div>

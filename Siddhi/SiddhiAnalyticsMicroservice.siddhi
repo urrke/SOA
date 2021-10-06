@@ -1,0 +1,77 @@
+@App:name("SiddhiAnalyticsMicroservice")
+
+
+
+@Source(type = 'http',
+        receiver.url='http://0.0.0.0:8006/siddhi/water-condition',
+        basic.auth.enabled='false',
+        @map(type='json'))
+define stream WaterConditionStream 
+(
+    id string, 
+    beachName string,
+    temperature float,
+    turbidity float,
+    transducerDepth float,
+    batteryLife float,
+    timestamp string
+);
+
+@Source(type = 'http',
+        receiver.url='http://0.0.0.0:8006/siddhi/waves',
+        basic.auth.enabled='false',
+        @map(type='json'))
+define stream WavesStream 
+(
+    id string, 
+    beachName string,
+    waveHeight float,
+    wavePeriod float,
+    batteryLife float,
+    timestamp string
+);
+
+@sink(type='http', 
+	  publisher.url='http://analytics-microservice:80/analytics/add-event',
+      method='POST', 
+	  headers='Content-Type:application/json',
+      basic.auth.enabled='false',
+      @map(type='json'))
+define stream OutputStream 
+(
+    eventType int,
+    value float,
+    timestamp string,
+    beachName string
+);
+
+
+@info(name='HotWater')
+from WaterConditionStream[temperature > 25]
+select 0 as eventType, temperature as value, timestamp, beachName
+insert into OutputStream;
+
+@info(name='ColdWater')
+from WaterConditionStream[temperature  < 16.5]
+select 1 as eventType, temperature as value, timestamp, beachName
+insert into OutputStream;
+
+@info(name='TurbidWater')
+from WaterConditionStream[turbidity < 7]
+select 2 as eventType, turbidity as value, timestamp, beachName
+insert into OutputStream;
+
+@info(name='ClearWater')
+from WaterConditionStream[turbidity  > 1.2]
+select 3 as eventType, turbidity as value, timestamp, beachName
+insert into OutputStream;
+
+@info(name='LowBattery')
+from WavesStream[batteryLife < 9]
+select 4 as eventType, batteryLife as value, timestamp, beachName
+insert into OutputStream;
+
+@info(name='FullBattery')
+from WavesStream[batteryLife  > 11.7]
+select 5 as eventType, batteryLife as value, timestamp, beachName
+insert into OutputStream;
