@@ -1,0 +1,108 @@
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Data Microservice.exe
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\Data Microservice.AssemblyInfoInputs.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\Data Microservice.AssemblyInfo.cs
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\Data Microservice.RazorTargetAssemblyInfo.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\staticwebassets\Data Microservice.StaticWebAssets.Manifest.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\staticwebassets\Data Microservice.StaticWebAssets.xml
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\MQTTnet.dll
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\Data Microservice.csproj.CopyComplete
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Data Microservice.deps.json
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Data Microservice.runtimeconfig.json
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Data Microservice.runtimeconfig.dev.json
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Data Microservice.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Data Microservice.pdb
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\Data Microservice.csproj.CoreCompileInputs.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\Data Microservice.MvcApplicationPartsAssemblyInfo.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\Data Microservice.dll
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\Data Microservice.pdb
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\Data Microservice.genruntimeconfig.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\Data Microservice.csproj.AssemblyReference.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\Data Microservice.styles.css

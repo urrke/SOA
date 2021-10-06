@@ -1,0 +1,237 @@
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\appsettings.Development.json
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\appsettings.json
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.exe
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.deps.json
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.runtimeconfig.json
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.runtimeconfig.dev.json
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ref\Data Microservice.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.pdb
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\DnsClient.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\MongoDB.Bson.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\MongoDB.Driver.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\MQTTnet.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\NuGet.Frameworks.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\SharpCompress.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.AssemblyInfoInputs.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.AssemblyInfo.cs
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.csproj.CoreCompileInputs.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.MvcApplicationPartsAssemblyInfo.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\staticwebassets\Data Microservice.StaticWebAssets.Manifest.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\staticwebassets\Data Microservice.StaticWebAssets.xml
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\scopedcss\bundle\Data Microservice.styles.css
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.RazorTargetAssemblyInfo.cache
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.csproj.CopyComplete
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.dll
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\ref\Data Microservice.dll
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.pdb
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.genruntimeconfig.cache
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SOA\Data Microservice\Data Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SOA\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.csproj.AssemblyReference.cache
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\appsettings.Development.json
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\appsettings.json
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.exe
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.deps.json
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.runtimeconfig.json
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.runtimeconfig.dev.json
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ref\Data Microservice.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Data Microservice.pdb
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\DnsClient.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\MongoDB.Bson.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\MongoDB.Driver.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\MQTTnet.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\NuGet.Frameworks.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\SharpCompress.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.csproj.AssemblyReference.cache
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.AssemblyInfoInputs.cache
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.AssemblyInfo.cs
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.csproj.CoreCompileInputs.cache
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.MvcApplicationPartsAssemblyInfo.cache
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\staticwebassets\Data Microservice.StaticWebAssets.Manifest.cache
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\staticwebassets\Data Microservice.StaticWebAssets.xml
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\scopedcss\bundle\Data Microservice.styles.css
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.RazorTargetAssemblyInfo.cache
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.csproj.CopyComplete
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\ref\Data Microservice.dll
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.pdb
+E:\SOA\Microservices\Data Microservice\Data Microservice\obj\Debug\net5.0\Data Microservice.genruntimeconfig.cache
+E:\SOA\Microservices\Data Microservice\Data Microservice\bin\Debug\net5.0\MQTTnet.Extensions.ManagedClient.dll
